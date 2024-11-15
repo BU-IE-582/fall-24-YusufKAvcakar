@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Page 
 
-## Links of My Repository and Page:
+## Links of My Repository:
 
 Check [My Repository](https://github.com/BU-IE-582/fall-24-YusufKAvcakar) to see the folder names and the uploaded files."[Raw](https://raw.githubusercontent.com/BU-IE-582/fall-24-YusufKAvcakar/main/index.md)" button will lead you to the script for this page. 
 
