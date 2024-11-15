@@ -6,12 +6,9 @@ Check [my repository](https://github.com/BU-IE-582/fall-24-YusufKAvcakar) to see
 
 ## Aim of My Github Page:
 
-I will use this page to show my homeworks for IE-582 and paste these links to here.
+I will use this page to show my homeworks for IE-582.
 
 ## First HW
 
 The webpage link is for HW1:
 [Jupyter Notebook Example HTML](HW1/HW1.html)
-
-## Link to My Journal
-[link to my journal](https://bu-ie-582.github.io/fall-24-YusufKAvcakar/)
