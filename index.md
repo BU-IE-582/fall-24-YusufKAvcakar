@@ -12,5 +12,9 @@ I will use this page to show my homeworks for IE-582 and paste these links to he
 
 ## First HW
 
-The link is for HW1:
-(https://github.com/BU-IE-582/fall-24-YusufKAvcakar/blob/main/HW1.ipynb)
+The webpage link is for HW1:
+[Jupyter Notebook Example HTML](https://github.com/BU-IE-582/fall-24-YusufKAvcakar/blob/main/HW1.html)):
+
+The code link is for HW1:
+[Python Example Script](https://github.com/BU-IE-582/fall-24-YusufKAvcakar/blob/main/HW1.ipynb)
+
