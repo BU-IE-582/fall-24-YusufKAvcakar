@@ -12,3 +12,8 @@ I will use this page to show my homeworks for IE-582.
 
 The webpage link is for HW1:
 [Jupyter Notebook Example HTML](HW1/HW1.html)
+
+## Second HW
+
+The webpage link is for HW2:
+[Jupyter Notebook Example HTML](HW2/HW2.html)
