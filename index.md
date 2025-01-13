@@ -17,3 +17,16 @@ The webpage link is for HW1:
 
 The webpage link is for HW2:
 [Jupyter Notebook Example HTML](HW2/HW2.html)
+
+## Project
+
+Our project team:
+
+Yusuf Kavçakar - 2019402069
+
+Ufuk Özkan - 2019402267
+
+Eren Görkem Çakır - 2017402123
+
+The webpage link is for the project:
+[Jupyter Notebook Example HTML](Project/IE582_ProjectReport.html)
