@@ -21,6 +21,7 @@ The webpage link is for HW2:
 ## Project
 
 Our project team:
+
 Yusuf Kavçakar - 2019402069
 
 Ufuk Özkan - 2019402267
